@@ -1,1 +1,1 @@
-My first major Git task
+My first major Git task, version 1
